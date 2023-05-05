@@ -204,7 +204,7 @@ void Triangle(const vec4 clipVerts[3],const int W,const int H,const mat<4,4> Vie
 				continue;
 			float dp = bc.x * vVerts[0][2] / vVerts[0][3] + bc.y * vVerts[1][2] / vVerts[1][3] + bc.z * vVerts[2][2] / vVerts[2][3];
 			zBuffer[i + j * W] = dp;
-			putpixel(i, H-j, RGB(255 * dp, 255 * dp, 255 * dp));
+			putpixel(i, H - j, RGB(255 * dp, 255 * dp, 255 * dp));
 			//if (dp < zBuffer[i + j * W]) {
 			//	zBuffer[i + j * W] = dp;
 			//	putpixel(i, j, WHITE);
