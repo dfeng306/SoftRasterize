@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(49,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(50,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(55,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(56,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(99,22): warning C4838: 从“int”转换到“double”需要收缩转换
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(99,43): warning C4838: 从“int”转换到“double”需要收缩转换
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(116,64): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(117,60): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(146,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(177,51): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\wepie\source\repos\SoftRasterization\SoftRasterization\main.cpp(191,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  SoftRasterization.vcxproj -> C:\Users\wepie\source\repos\SoftRasterization\Debug\SoftRasterization.exe
